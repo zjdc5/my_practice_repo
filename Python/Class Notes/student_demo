@@ -1,0 +1,6 @@
+from student import Student
+
+me = Student("Coladipietro", "Joey", "02550487")
+print(me)
+
+me.greeting("Hello Joey.")

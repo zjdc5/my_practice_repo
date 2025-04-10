@@ -1,0 +1,5 @@
+To Kill a Mockingbird,Harper Lee,Fiction
+Sapiens,Yuval Noah Harari,Non-fiction
+The Great Gatsby,F. Scott Fitzgerald,Fiction
+Becoming,Michelle Obama,Non-fiction
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy
